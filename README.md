@@ -22,6 +22,6 @@ Hi 👋, I'm Mikhail Zhukov
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,figma,vscode,nginx,mongodb,mysql,nextjs,nodejs,postman,react,redux,tailwind,firebase,express&perline=9" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,figma,vscode,nginx,mongodb,mysql,nextjs,nodejs,fastapi,postman,react,redux,tailwind,firebase,express,php,python,vite,vercel,npm,obsidian,notion,linux&perline=9" />
   </a>
 </p>
