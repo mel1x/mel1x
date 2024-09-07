@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/mel1x/mel1x/blob/main/banner.jpg" style="width:100%;" />
+</p>
 <h1>👨🏻‍💻  About Me</h1>
 Hi 👋, I'm Mikhail Zhukov
 
