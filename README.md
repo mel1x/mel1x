@@ -20,14 +20,9 @@ Hi  <picture>
 </p>
 <br>
 <br>
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
 <!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,figma,vscode,nginx,mongodb,mysql,nextjs,nodejs,fastapi,postman,react,redux,tailwind,firebase,express,php,python,vite,vercel,npm,obsidian,notion,bash&perline=9" />
-  </a>
-</p>
+<details>
+  <summary>Technologies That I Know👨🏻‍💻</summary>
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,figma,vscode,nginx,mongodb,mysql,nextjs,nodejs,fastapi,postman,react,redux,tailwind,firebase,express,php,python,vite,vercel,npm,obsidian,notion,bash" />
+</details>
