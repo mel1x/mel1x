@@ -19,10 +19,6 @@ Hi  <picture>
   </a>
 </p>
 <br>
-<br>
 <!--tech stack icons-->
-<details>
-  <summary>Technologies That I Know👨🏻‍💻</summary>
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,figma,vscode,nginx,mongodb,mysql,nextjs,nodejs,fastapi,postman,react,redux,tailwind,firebase,express,php,python,vite,vercel,npm,obsidian,notion,bash" />
-</details>
+<h3>Technologies That I Know👨🏻‍💻</h3>
+<img src="https://skillicons.dev/icons?i=git,fastapi,postman,html,css,js,ts,nodejs,nextjs,react,tailwind,php,python,express,mysql,firebase,vercel,bash&perline=9&theme=dark" />
