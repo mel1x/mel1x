@@ -21,4 +21,4 @@ Hi  <picture>
 <br>
 <!--tech stack icons-->
 <h3>Technologies That I Know👨🏻‍💻</h3>
-<img src="https://skillicons.dev/icons?i=git,fastapi,postman,html,css,js,ts,nodejs,nextjs,react,tailwind,php,python,express,mysql,firebase,vercel,bash&perline=9&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,fastapi,html,css,js,ts,nodejs,nextjs,react,tailwind,php,python,mysql,vercel&perline=7&theme=dark" />
