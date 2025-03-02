@@ -9,16 +9,10 @@ Hi  <picture>
 
 - 🌱 I’m currently learning Front-end Web Development and other programming languages
 
-- 🔭 I've 3+ years working expirence
+- 🔭 I've 4+ years working expirence
 
 - 📫 How to reach me **[@ymel1xy](https://t.me/ymel1xy)**
-
-<p align="left">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=mel1x&label=Profile%20Views&color=12&icon=8&pretty=true" />
-  </a>
-</p>
 <br>
-<!--tech stack icons-->
-<h3>Technologies That I Know👨🏻‍💻</h3>
+
+<h3>The technologies I use👨🏻‍💻</h3>
 <img src="https://skillicons.dev/icons?i=git,fastapi,html,css,js,ts,nodejs,nextjs,react,tailwind,php,python,mysql,vercel&perline=7&theme=dark" />
