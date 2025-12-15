@@ -9,7 +9,7 @@ Hi  <picture>
 
 - 🌱 I’m currently learning Front-end Web Development and other programming languages
 
-- 🔭 I've 4+ years working expirence
+- 🔭 I've 5+ years expirence
 
 - 📫 How to reach me **[@ymel1xy](https://t.me/ymel1xy)**
 <br>
