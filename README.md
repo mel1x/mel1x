@@ -14,4 +14,4 @@
 <br>
 
 <h3>The technologies I use👨🏻‍💻</h3>
-<img src="https://skillicons.dev/icons?i=git,fastapi,html,css,js,ts,nodejs,nextjs,react,tailwind,php,python,mysql,vercel&perline=7&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nextjs,vue,nuxtjs,nodejs,python,postgresql,vercel,arch&perline=6&theme=dark" />
