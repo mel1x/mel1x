@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://github.com/mel1x/mel1x/blob/main/banner.jpg" style="width:100%;" />
+  <img src="https://github.com/user-attachments/assets/ee6a42d1-425f-4b46-a2fd-a13108c9ac44" style="width:100%;" />
 </p>
-<h1>💭  About Me</h1>
-Hi  <picture>
+<h1>Hi  <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="16" height="16">
-</picture>, I'm Mikhail Zhukov
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="30" height="30">
+</picture>, I'm Mikhail Zhukov</h1>
 
 - 🌱 I’m currently learning Front-end Web Development and other programming languages
 
